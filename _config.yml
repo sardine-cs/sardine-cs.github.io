@@ -1,8 +1,8 @@
 # Basic Information 
-title: Nuno M. Guerreiro
-position: Ph.D. Student
-affiliation: Instituto Superior Técnico
-email: nunoguerreiro (at) lx.it.pt
+title: Sardine LAB
+position: Lisbon, Portugal :PT:
+# affiliation: Instituto Superior Técnico
+# email: nunoguerreiro (at) lx.it.pt
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,11 +12,11 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/citations?user=268m9FgAAAAJ&hl=en
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/nunonmg
+# google_scholar: https://scholar.google.com/citations?user=268m9FgAAAAJ&hl=en
+# cv_link: assets/files/curriculum_vitae.pdf
+github_link: https://github.com/deep-spin
 # linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/nunonmg
+# twitter: https://twitter.com/nunonmg
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
