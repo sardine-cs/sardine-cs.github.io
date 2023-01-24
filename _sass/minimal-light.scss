@@ -658,7 +658,7 @@ footer {
       min-width: 210px;
 
       a {
-          color: $theme-color;
+          color: rgb(0, 0, 0);
           &:hover {
               text-decoration: underline;
           }
@@ -679,7 +679,7 @@ footer {
 }
 
 .news {
-  border-top: 1px solid $grey-color-light;
+  border-top: 1px solid  rgb(219, 218, 218);
   margin-top: 30px;
   padding-top: 20px;
 
