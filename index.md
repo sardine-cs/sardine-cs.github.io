@@ -10,7 +10,7 @@ The SARDINE Lab at the Instituto of Telecomunicações of the Instituto Superior
 • **Nov 2022** : Multiple papers accepted at EMNLP 2022 ...
 
 ## The Team
-{% include _includes/staff.html %}
+{% include_relative _includes/staff.html %}
 
 {% include_relative _includes/publications.md %}
 
