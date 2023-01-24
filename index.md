@@ -11,22 +11,6 @@ The SARDINE Lab at the Instituto of Telecomunicações of the Instituto Superior
 
 ## The Team
 
-<div class="wrapper">
-<div class="grid">
-    <div class="grid-item">
-        <figure>
-            <img src="assets/img/blank.png" alt="">
-            <figcaption>Image Title</figcaption>
-        </figure>
-    </div>
-    <div class="grid-item">
-        <figure>
-            <img src="assets/img/blank.png" alt="">
-            <figcaption>Image Title</figcaption>
-        </figure>
-    </div>
-</div>
-</div>
 
 {% include_relative _includes/publications.md %}
 
