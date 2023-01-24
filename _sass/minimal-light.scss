@@ -631,7 +631,7 @@ footer {
 
 %instructor-profile {
   display: block;
-  float: center;
+  float: left;
   height: 210px;
 
   @media screen and (min-width: 676px) {
@@ -640,7 +640,7 @@ footer {
 
   img {
       border-radius: 50%;
-      float: center;
+      float: left;
       object-fit: cover;
       height: 100px;
       width: 100px;
@@ -649,7 +649,7 @@ footer {
 
   ul.instructor-info {
       display: block;
-      float: center;
+      float: left;
       list-style-type: none;
       padding-left: 0;
       width: 65%;
