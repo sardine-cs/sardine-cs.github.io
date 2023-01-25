@@ -4,25 +4,29 @@ Instructors:
       image: staff/generic.jpeg
 
 EducationAssociates:
-    - name: Chrysoula Zerva
-      image: staff/generic.jpeg
     - name: Ben Peters
+      image: staff/generic.jpeg
+      
+    - name: Chrysoula Zerva
       image: staff/generic.jpeg
 
 TAs:
-    - name: Nuno M. Guerreiro
-      image: staff/generic.jpeg
-
-    - name: Patrick Fernandes
-      image: staff/generic.jpeg
-
     - name: António Farinhas
+      image: staff/generic.jpeg
+
+    - name: Duarte Alves
+      image: staff/generic.jpeg
+
+    - name: Haau-Sing
       image: staff/generic.jpeg
 
     - name: Marcos Treviso
       image: staff/generic.jpeg
 
-    - name: Duarte Alves
+    - name: Nuno M. Guerreiro
+      image: staff/generic.jpeg
+
+    - name: Patrick Fernandes
       image: staff/generic.jpeg
     
     - name: Taisiya Glushkova
