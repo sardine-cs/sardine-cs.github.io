@@ -626,13 +626,13 @@ footer {
 }
 
 .instructors {
-  padding: 0 0 0 1%;
+  padding: 0 0 0 5%;
 }
 
 %instructor-profile {
   display: block;
   float: left;
-  height: 210px;
+  height: 310px;
 
   @media screen and (min-width: 676px) {
       height: 130px;
