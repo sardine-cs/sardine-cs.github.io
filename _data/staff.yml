@@ -3,12 +3,27 @@ Instructors:
       url: https://www.cs.cmu.edu/~katef/
       image: staff/generic.jpeg
 
+EducationAssociates:
+    - name: Chrysoula Zerva
+      image: staff/generic.jpeg
+    - name: Ben Peters
+      image: staff/generic.jpeg
+
 TAs:
-    - name: Alex Singh
+    - name: Nuno M. Guerreiro
       image: staff/generic.jpeg
 
-    - name: Robin Schmucker
+    - name: Patrick Fernandes
       image: staff/generic.jpeg
 
-    - name: Nick Toldalagi
+    - name: António Farinhas
+      image: staff/generic.jpeg
+
+    - name: Marcos Treviso
+      image: staff/generic.jpeg
+
+    - name: Duarte Alves
+      image: staff/generic.jpeg
+    
+    - name: Taisiya Glushkova
       image: staff/generic.jpeg
