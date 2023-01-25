@@ -1,13 +1,13 @@
 Instructors:
     - name: Katerina Fragkiadaki
       url: https://www.cs.cmu.edu/~katef/
-      image: staff/katef.jpeg
+      image: staff/generic.jpeg
 
 EducationAssociates:
     - name: Chrysoula Zerva
-      image: staff/alex.jpg
+      image: staff/generic.jpeg
     - name: Ben Peters
-      image: staff/alex.jpg
+      image: staff/generic.jpeg
 
 TAs:
     - name: Nuno M. Guerreiro

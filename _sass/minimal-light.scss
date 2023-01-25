@@ -610,7 +610,7 @@ footer {
 }
 
 .logo {
-  float: center;
+  float: left;
   margin-right: 20px;
   padding-bottom: 15px;
   width: 120px;
@@ -631,7 +631,7 @@ footer {
 
 %instructor-profile {
   display: block;
-  float: center;
+  float: left;
   height: 210px;
 
   @media screen and (min-width: 676px) {
@@ -640,7 +640,7 @@ footer {
 
   img {
       border-radius: 50%;
-      float: center;
+      float: left;
       object-fit: cover;
       height: 100px;
       width: 100px;
@@ -649,16 +649,16 @@ footer {
 
   ul.instructor-info {
       display: block;
-      float: center;
+      float: left;
       list-style-type: none;
       padding-left: 0;
-      width: 50%;
+      width: 65%;
       width: -webkit-calc(100% - 130px);
       width: calc(100% - 130px);
       min-width: 210px;
 
       a {
-          color: rgb(0, 0, 0);
+          color: $theme-color;
           &:hover {
               text-decoration: underline;
           }
@@ -679,7 +679,7 @@ footer {
 }
 
 .news {
-  border-top: 1px solid  rgb(0, 0, 0);
+  border-top: 1px solid $grey-color-light;
   margin-top: 30px;
   padding-top: 20px;
 
