@@ -64,6 +64,9 @@
         {% if instructor.name %}
         <li><span>PhD Student</span></li> 
         <li><a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+        {% if instructor.visiting %}
+        <li><span>{{ instructor.visiting }}</span></li>
+
         <div class="social-icons">
           {% if instructor.google_scholar %}
           <a style="margin: 0 0px 0 0" href="{{ instructor.google_scholar }}">
