@@ -15,5 +15,6 @@ The SARDINE Lab at the Instituto of Telecomunicações of the Instituto Superior
 ## Current Team
 {% include_relative _includes/staff.html %}
 
-{% include_relative _includes/publications.md %}
+## Publications
+{% include_relative _includes/selected_papers.html %}
 
