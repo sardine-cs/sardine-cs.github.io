@@ -28,7 +28,11 @@ TAs:
 
     - name: Dennis Ulmer
       image: staff/dennis.jpg
+      url: https://dennisulmer.eu/
       visiting: IT University of Copenhagen
+      twitter: https://twitter.com/dnnslmr
+      github_link: https://github.com/Kaleidophon
+      google_scholar: https://scholar.google.com/citations?user=rn9WoaEAAAAJ&hl=de
 
     - name: Duarte Alves
       image: staff/generic.jpeg
