@@ -2,7 +2,6 @@
 <div class="publications">
 <ol class="bibliography">
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2208.05309">Looking for a Needle in a Haystack: <br> A Comprehensive Study of Hallucinations in Neural Machine Translation</a></div>
@@ -13,9 +12,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2212.09885">Asking Clarification Questions for Code Generation in General-Purpose Programming Language</a></div>
@@ -27,9 +24,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2212.09631">Optimal Transport for Unsupervised Hallucination Detection in Neural Machine Translation</a></div>
@@ -41,9 +36,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2209.00099">Efficient Methods for Natural Language Processing: A Survey</a></div>
@@ -55,9 +48,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2205.12230">Chunk-based Nearest Neighbor Machine Translation</a></div>
@@ -69,9 +60,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2204.06546">Disentangling Uncertainty in Machine Translation Evaluation</a></div>
@@ -83,9 +72,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2209.06243">CometKiwi: IST-Unbabel 2022 Submission for the Quality Estimation Shared Task</a></div>
@@ -97,9 +84,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2204.10810">Learning to Scaffold: Optimizing Model Explanations for Teaching</a></div>
@@ -111,9 +96,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2208.05309">Beyond Characters: Subword-level Morpheme Segmentation</a></div>
@@ -125,9 +108,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://proceedings.mlr.press/v162/mihaylova22a.html">Modeling Structure with Undirected Neural Networks</a></div>
@@ -139,9 +120,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2205.00978">Quality-Aware Decoding for Neural Machine Translation</a></div>
@@ -153,9 +132,7 @@
     </div>
   </div>
 </div>
-</li>
 
-<li>
 <div class="pub-row">
   <div class="col-sm-15">
       <div class="title"><a href="https://aclanthology.org/2022.acl-long.375/">∞-former: Infinite Memory Transformer</a></div>
@@ -167,7 +144,6 @@
     </div>
   </div>
 </div>
-</li>
 
 </ol>
 </div>
