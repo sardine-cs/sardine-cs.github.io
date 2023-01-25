@@ -1,5 +1,5 @@
 <hr>
-<h2 id="publications" style="margin: 2px 0px -15px;" border-top: 1px solid #e6e6e6;>Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;" border-top="1px solid #e6e6e6";>Publications</h2>
 
 <div class="publications">
 <ol class="bibliography">
