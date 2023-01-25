@@ -3,8 +3,8 @@
     <div class="instructor-profile-three-col">
       <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
       <ul class="instructor-info">
-        <li><span>Professor</span></li>
         <li><a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+        <li><span>Professor</span></li>
         <div class="social-icons">
           {% if instructor.google_scholar %}
           <a style="margin: 0 0px 0 0" href="{{ instructor.google_scholar }}">
@@ -32,8 +32,8 @@
       <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
       {% endif %}
       <ul class="instructor-info">
-        <li><span>Post-Doc</span></li>  
         <li><a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+        <li><span>Post-Doc</span></li>  
         <div class="social-icons">
           {% if instructor.google_scholar %}
           <a style="margin: 0 0px 0 0" href="{{ instructor.google_scholar }}">
@@ -62,10 +62,13 @@
       {% endif %}
       <ul class="instructor-info">
         {% if instructor.name %}
-        <li><span>PhD Student</span></li> 
         <li><a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
         {% if instructor.visiting %}
+        <li><span>Visiting PhD Student</span></li> 
         <li><span>{{ instructor.visiting }}</span></li>
+        {% else %}
+        <li><span>PhD Student</span></li> 
+        {% endif %}
 
         <div class="social-icons">
           {% if instructor.google_scholar %}
