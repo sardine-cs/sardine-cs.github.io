@@ -4,7 +4,7 @@ Instructors:
       google_scholar: https://scholar.google.com/citations?user=mT7ppvwAAAAJ&hl=en
       twitter: https://twitter.com/andre_t_martins
       github_link: https://github.com/andre-martins
-      image: staff/generic.jpeg
+      image: staff/andre.jpg
 
 EducationAssociates:
     - name: Ben Peters
@@ -14,14 +14,14 @@ EducationAssociates:
       google_scholar: https://scholar.google.com/citations?user=WFcYhToAAAAJ&hl=en
 
     - name: Chrysoula Zerva
-      image: staff/generic.jpeg
+      image: staff/chryssa.jpg
       twitter: https://twitter.com/chryssaZrv
       github_link: https://github.com/chryssa-zrv
       google_scholar: https://scholar.google.com/citations?user=S5NGkFsAAAAJ&hl=en&oi=ao
 
 TAs:
     - name: António Farinhas
-      image: staff/generic.jpeg
+      image: staff/antonio.jpg
       twitter: https://twitter.com/tozefarinhas
       github_link: https://github.com/antonio-farinhas
       google_scholar: https://scholar.google.com/citations?hl=en&user=yK5wIPkAAAAJ
@@ -30,31 +30,31 @@ TAs:
       image: staff/generic.jpeg
 
     - name: Li Haau-Sing
-      image: staff/generic.jpeg
+      image: staff/haau.png
       twitter: https://twitter.com/LHaausing
       github_link: https://github.com/lhaausing
       google_scholar: https://scholar.google.com/citations?hl=en&user=ITrvoewAAAAJ
 
     - name: Marcos Treviso
-      image: staff/generic.jpeg
+      image: staff/marcos.jpg
       twitter: https://twitter.com/MarcosTreviso
       github_link: https://github.com/mtreviso
       google_scholar: https://scholar.google.com/citations?hl=en&user=puR_FskAAAAJ
 
     - name: Nuno M. Guerreiro
-      image: staff/generic.jpeg
+      image: staff/nuno.png
       twitter: https://twitter.com/nunonmg
       github_link: https://github.com/nunonmg
       google_scholar: https://scholar.google.com/citations?hl=en&user=268m9FgAAAAJ
 
     - name: Patrick Fernandes
-      image: staff/generic.jpeg
+      image: staff/patrick.jpg
       twitter: https://twitter.com/psanfernandes
       github_link: https://github.com/CoderPat
       google_scholar: https://scholar.google.com/citations?hl=en&user=YPPGQnEAAAAJ
     
     - name: Taisiya Glushkova
-      image: staff/generic.jpeg
+      image: staff/taya.png
       twitter: https://twitter.com/glushkovato
       github_link: https://github.com/glushkovato
       google_scholar: https://scholar.google.com/citations?hl=en&user=tvQWgU8AAAAJ
