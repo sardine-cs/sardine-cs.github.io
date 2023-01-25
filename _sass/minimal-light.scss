@@ -645,6 +645,7 @@ footer {
       height: 100px;
       width: 100px;
       margin-right: 10px;
+      margin-bottom: 10px;
   }
 
   ul.instructor-info {
@@ -652,6 +653,7 @@ footer {
       float: left;
       list-style-type: none;
       padding-left: 0;
+      padding-bottom: 10px;
       width: 65%;
       width: -webkit-calc(100% - 130px);
       width: calc(100% - 130px);
@@ -665,7 +667,7 @@ footer {
       }
 
       span {
-          font-weight: 400;
+          font-weight: 350;
       }
   }
 }
