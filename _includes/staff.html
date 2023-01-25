@@ -27,8 +27,10 @@
       <a href="{{ instructor.url }}" target="_blank"><img src="{{ instructor.image | prepend: '/assets/img/' | relative_url }}" /></a>
       {% endif %}
       <ul class="instructor-info">
+        {% if instructor.name %}
         <li><span>PhD Student</span></li> 
         <li><a href="{{ instructor.url }}" target="_blank">{{ instructor.name }}</a></li>
+        {% endif %}
       </ul>
     </div>
     {% endfor %}
