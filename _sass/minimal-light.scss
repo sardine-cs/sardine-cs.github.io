@@ -103,7 +103,7 @@ body {
   width:3.6rem;
   height:3.6rem;
   border-radius:3.6rem;
-  margin:-1.8rem}
+  margin:0rem}
 
 .twitter span{
   background-color:#4099ff}
@@ -218,6 +218,7 @@ papertitle {
       position: absolute;
       top: 0;
       width: 100%;
+      bottom: -10;
     }
 
     .image.avatar {
@@ -230,15 +231,15 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 85%;
-        padding: 20px;
+        width: 150%;
+        padding: -10px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
       }
 
     #header .image.avatar {
-      margin: 0 0 1em 0;
+      margin: 0 0 0em 0;
       width: 12.00em;
     }
 
@@ -626,7 +627,7 @@ footer {
 
 .about {
   .post-title {
-      padding-top: 20px;
+      padding-top: 10px;
   }
   .post-description {
       font-size: 20px;
