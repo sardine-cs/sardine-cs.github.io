@@ -708,6 +708,21 @@ footer {
   }
 }
 
+.badge-arxiv {
+  color: #837184;
+  background-color: #837184;
+}
+
+.badge-mine {
+  color: #344A53;
+  background-color: #344A53;
+}
+
+.badge-work {
+  color: #008FAF;
+  background-color: #008FAF;
+}
+
 // Publications
 
 .publications {
@@ -750,7 +765,7 @@ footer {
         margin-bottom: 0.5rem;
         abbr {
           display: inline-block;
-          background-color: #e6e6e6;
+          background-color: #008FAF;
           padding-left: 1rem;
           padding-right: 1rem;
           a {
