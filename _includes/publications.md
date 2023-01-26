@@ -17,7 +17,7 @@
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2212.09885">Asking Clarification Questions for Code Generation in General-Purpose Programming Language</a></div>
       <div class="author">Haau-Sing Li, Mohsen Mesgar, André F.T. Martins, Iryna Gurevych</div>
-      <div class="periodical" style="position: relative; padding-bottom: 1px;"><span class="badge badge-mine">arXiv</span> &nbsp; <em>Preprint, 2022.</em>
+      <div class="periodical" style="position: relative; padding-bottom: 1px;"><span class="badge badge-arxiv">arXiv</span> &nbsp; <em>Preprint, 2022.</em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2212.09885.pdf" class="btn btn-sm z-depth-1" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -29,7 +29,7 @@
   <div class="col-sm-15">
       <div class="title"><a href="https://arxiv.org/abs/2212.09631">Optimal Transport for Unsupervised Hallucination Detection in Neural Machine Translation</a></div>
       <div class="author">Nuno M. Guerreiro, Pierre Colombo, Pablo Piantanida, André F.T. Martins</div>
-      <div class="periodical" style="position: relative; padding-bottom: 1px;"><span class="badge badge-mine">arXiv</span> &nbsp; <em>Preprint, 2022.</em>
+      <div class="periodical" style="position: relative; padding-bottom: 1px;"><span class="badge badge-arxiv">arXiv</span> &nbsp; <em>Preprint, 2022.</em>
       </div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2212.09631.pdf" class="btn btn-sm z-depth-1" role="button" target="_blank" style="font-size:12px;">PDF</a>
