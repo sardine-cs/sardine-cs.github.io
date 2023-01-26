@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-The SARDINE Lab at the Instituto of Telecomunicações of the Instituto Superior Técnico, Universidade de Lisboa  is a team led by André F.T. Martins with multiple postdocs, PhD students, and students who work on a broad range of problems in Natural Language Processing and Machine Learning.
+Welcome to the SARDINE Lab at the Instituto Superior Técnico in Lisbon! We are a research group focused on Natural Language Processing and Machine Learning. We're a collaborative community of researchers and graduate students. Take a look around our website to learn more about our current projects and publications.
 
 ---
 
@@ -15,6 +15,7 @@ The SARDINE Lab at the Instituto of Telecomunicações of the Instituto Superior
 ## Current Team
 {% include_relative _includes/staff.html %}
 
+<hr>
 ## Publications
 {% include_relative _includes/publications.md %}
 
