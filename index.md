@@ -9,8 +9,8 @@ Take a look around our website to learn more about our current projects and publ
 ---
 
 ## Lab News
-• **Jan 2023** : Paper accepted at EACL 2023 (main) <br />
-• **Nov 2022** : Multiple papers accepted at EMNLP 2022 ...
+• **Jan 2023** : ... <br />
+• **Nov 2022** : ...
 
 ---
 

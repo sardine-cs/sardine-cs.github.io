@@ -1,5 +1,5 @@
 <span class='line'></span>
-<h2 id="publications" style="margin: 2px 0px 0px;">Selected Publications</h2>
+<h2 id="publications" style="margin: 2px 0px -5px;">Selected Publications</h2>
 <div class="publications">
 <ol class="bibliography">
 
@@ -145,6 +145,6 @@
     </div>
   </div>
 </div><br>
-
+<span class='line'></span>
 </ol>
 </div>
