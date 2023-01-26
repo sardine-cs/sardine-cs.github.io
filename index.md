@@ -2,7 +2,9 @@
 layout: homepage
 ---
 
-Welcome to the SARDINE Lab at the Instituto Superior Técnico in Lisbon! We are a research group focused on Natural Language Processing and Machine Learning. We're a collaborative community of researchers and graduate students. Take a look around our website to learn more about our current projects and publications.
+Welcome to the SARDINE Lab at the Instituto Superior Técnico in Lisbon! We are a research group focused on Natural Language Processing and Machine Learning. 
+
+Take a look around our website to learn more about our current projects and publications.
 
 ---
 
@@ -12,10 +14,7 @@ Welcome to the SARDINE Lab at the Instituto Superior Técnico in Lisbon! We are 
 
 ---
 
-## Current Team
 {% include_relative _includes/staff.html %}
 
-<hr>
-## Publications
 {% include_relative _includes/publications.md %}
 
